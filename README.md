@@ -1,5 +1,6 @@
 # asset-tugas-PCD
 
 ##cara menambahkan gambar
-![img 1] (jagung/images.jfif)
+
+! [img 1] (jagung/images.jfif)
 
